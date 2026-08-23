@@ -105,6 +105,7 @@ New/changed information:
     return response.output_text.strip()
 
 def main():
+    telegram("✅ WOSM monitor Telegram test is working!")
     state = load_state()
     changes = []
 
