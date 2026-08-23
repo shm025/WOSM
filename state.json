@@ -1,5 +1,24 @@
 {
-  "pages": {},
-  "items": {},
-  "initialized": false
+  "pages": {
+    "https://www.scout.org/get-involved/act-now/volunteer": "0f2566be3cf61b3f8086d907cd7155d13d31cdf0787922e03af65e00d64e5414",
+    "https://www.scout.org/get-involved/act-now/careers": "7724deb2158d99e4cba0ef3527293643f0ab273e04d96e45b692f474d5f473ae"
+  },
+  "items": {
+    "84516447c541c2860425837590e170d5848257190e4e30a611c776aad8d03af3": {
+      "title": "Volunteer",
+      "url": "https://www.scout.org/get-involved/act-now/volunteer",
+      "first_seen": "2026-08-23T21:58:39.435676+00:00"
+    },
+    "7fecbf6cba8ebc4662163b02126c180a9f34d96d1e105a7a59ca592c85f4d797": {
+      "title": "Apply",
+      "url": "https://careers.scout.org/o/director-member-support",
+      "first_seen": "2026-08-23T21:58:39.651902+00:00"
+    },
+    "8ed59daddb02b5b95227f3f66e35ae138e09c90535a05b52be5aa23d93f10d0a": {
+      "title": "Apply",
+      "url": "https://careers.scout.org/o/director-safeguarding-and-child-protection",
+      "first_seen": "2026-08-23T21:58:39.651919+00:00"
+    }
+  },
+  "initialized": true
 }
