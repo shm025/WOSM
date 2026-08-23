@@ -1,3 +1,5 @@
+# WOSM volunteer monitoring workflow
+
 name: Check WOSM volunteer opportunities
 
 on:
