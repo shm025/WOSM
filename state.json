@@ -1,7 +1,7 @@
 {
   "pages": {
-    "https://www.scout.org/get-involved/act-now/volunteer": "0f2566be3cf61b3f8086d907cd7155d13d31cdf0787922e03af65e00d64e5414",
-    "https://www.scout.org/get-involved/act-now/careers": "7724deb2158d99e4cba0ef3527293643f0ab273e04d96e45b692f474d5f473ae"
+    "https://www.scout.org/get-involved/act-now/volunteer": "09b5ab6d77de913d0766bd8f60387f176685e3b7d01c3ba9fcb08d5e36b82b28",
+    "https://www.scout.org/get-involved/act-now/careers": "4d9ddf5b1f12ee5f16ff367bb268bdd2f7ce4f998c208c7bb052766aed9c41e2"
   },
   "items": {
     "84516447c541c2860425837590e170d5848257190e4e30a611c776aad8d03af3": {
@@ -25,6 +25,34 @@
       "source_page": "https://www.scout.org/get-involved/act-now/volunteer",
       "context": "Volunteer with the World's Largest Youth Movement",
       "first_seen": "2026-08-23T22:16:52.751846+00:00"
+    },
+    "e8b6b8e2c458700c8eb023be8368bff630e0375378930ceec738743b8164485a": {
+      "title": "A Truly Global Workforce",
+      "url": "https://careers.scout.org/o/director-safeguarding-and-child-protection",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "A Truly Global Workforce",
+      "first_seen": "2026-08-26T07:09:31.203529+00:00"
+    },
+    "4ee352c6cff3dfa2492bb12be75ca3be43fa6bf0490601890cf4d8201ed6f1c5": {
+      "title": "Our Values",
+      "url": "https://careers.scout.org/o/director-safeguarding-and-child-protection",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Our Values",
+      "first_seen": "2026-08-26T07:09:31.203551+00:00"
+    },
+    "59c9ab25cf120d1480b3eb5b03ede943530b0eebb088cfb5e3e98486165816be": {
+      "title": "Join the World Scout Bureau Team",
+      "url": "https://careers.scout.org/o/director-safeguarding-and-child-protection",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Join the World Scout Bureau Team",
+      "first_seen": "2026-08-26T07:09:31.203557+00:00"
+    },
+    "6ef8dbaa601aaf86fc909a50ed11b72ec724fdc34366973279bd7e7955d4a792": {
+      "title": "Job Opportunities & Consultancies",
+      "url": "https://careers.scout.org/o/director-safeguarding-and-child-protection",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Job Opportunities & Consultancies",
+      "first_seen": "2026-08-26T07:09:31.203560+00:00"
     }
   },
   "initialized": true
