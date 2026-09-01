@@ -1,7 +1,7 @@
 {
   "pages": {
-    "https://www.scout.org/get-involved/act-now/volunteer": "09b5ab6d77de913d0766bd8f60387f176685e3b7d01c3ba9fcb08d5e36b82b28",
-    "https://www.scout.org/get-involved/act-now/careers": "4d9ddf5b1f12ee5f16ff367bb268bdd2f7ce4f998c208c7bb052766aed9c41e2"
+    "https://www.scout.org/get-involved/act-now/volunteer": "b13d3995794e5863b175f1cb5e0dce707fc4b1b412632468bd7889131dbb8e10",
+    "https://www.scout.org/get-involved/act-now/careers": "4ec8769f50df1a5d6234e823d6b2f5c084a23dc7b8de99fdb22dde2fb132af5f"
   },
   "items": {
     "84516447c541c2860425837590e170d5848257190e4e30a611c776aad8d03af3": {
@@ -53,6 +53,34 @@
       "source_page": "https://www.scout.org/get-involved/act-now/careers",
       "context": "Job Opportunities & Consultancies",
       "first_seen": "2026-08-26T07:09:31.203560+00:00"
+    },
+    "f319354b86ae555aac20034349d91b4203f6b9603644ce4307162ae000265026": {
+      "title": "A Truly Global Workforce",
+      "url": "https://careers.scout.org/o/director-member-support",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "A Truly Global Workforce",
+      "first_seen": "2026-09-01T11:39:24.642444+00:00"
+    },
+    "99f431a25844f273badac1b2bc3d6601ce09f2a640483dc7cc2aaa6822fa144c": {
+      "title": "Our Values",
+      "url": "https://careers.scout.org/o/director-member-support",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Our Values",
+      "first_seen": "2026-09-01T11:39:24.642468+00:00"
+    },
+    "5d8706fb7825124f0180452ec69ee2cc909808e4f947e78eedda8c4a2bedfe86": {
+      "title": "Join the World Scout Bureau Team",
+      "url": "https://careers.scout.org/o/director-member-support",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Join the World Scout Bureau Team",
+      "first_seen": "2026-09-01T11:39:24.642474+00:00"
+    },
+    "3f5b5a13429b8bf8778b723a819371081903775ddc637291e2d155013d285512": {
+      "title": "Job Opportunities & Consultancies",
+      "url": "https://careers.scout.org/o/director-member-support",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Job Opportunities & Consultancies",
+      "first_seen": "2026-09-01T11:39:24.642478+00:00"
     }
   },
   "initialized": true
