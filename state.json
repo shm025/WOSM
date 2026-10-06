@@ -1,7 +1,7 @@
 {
   "pages": {
-    "https://www.scout.org/get-involved/act-now/volunteer": "0544c4cd04f127258fd66156914e83e36465dafa94fe621ae44e99779302b196",
-    "https://www.scout.org/get-involved/act-now/careers": "b7e6885f92e856be45fba74816159b8b2887997e70ca1da5c2570cc67de00442"
+    "https://www.scout.org/get-involved/act-now/volunteer": "b9fac80178a5457f896b37d5322e20e5eb053810b2a16fdf8a51dc8031da971a",
+    "https://www.scout.org/get-involved/act-now/careers": "0f7571ea930d5994d219aaa8f21203c45bbb4c21cce99201fac17ae9be52fffa"
   },
   "items": {
     "84516447c541c2860425837590e170d5848257190e4e30a611c776aad8d03af3": {
@@ -81,6 +81,41 @@
       "source_page": "https://www.scout.org/get-involved/act-now/careers",
       "context": "Job Opportunities & Consultancies",
       "first_seen": "2026-09-01T11:39:24.642478+00:00"
+    },
+    "c5a1e084b1406112b32ba73ee005919024105b2d5d3dae69de0ac152a908cade": {
+      "title": "Do work that makes a difference",
+      "url": "https://careers.scout.org/o/junior-manager-communications-and-marketing",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Do work that makes a difference",
+      "first_seen": "2026-10-06T18:21:47.924032+00:00"
+    },
+    "579f8092d30e682ff31b13702a126a16b83da0103f5183610b7d64bf7f6ac543": {
+      "title": "Work with people from around the world",
+      "url": "https://careers.scout.org/o/junior-manager-communications-and-marketing",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Work with people from around the world",
+      "first_seen": "2026-10-06T18:21:47.924052+00:00"
+    },
+    "343cd06a266145365038b809eee70bb397f97099e14abd593b47c40c9c8edc6b": {
+      "title": "How we work",
+      "url": "https://careers.scout.org/o/junior-manager-communications-and-marketing",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "How we work",
+      "first_seen": "2026-10-06T18:21:47.924055+00:00"
+    },
+    "a7dcbcf6e8eae7a4b8ef6c86a55d238a0be5d7168dd30c7f00ad4b085cd734ec": {
+      "title": "What you can expect",
+      "url": "https://careers.scout.org/o/junior-manager-communications-and-marketing",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "What you can expect",
+      "first_seen": "2026-10-06T18:21:47.924057+00:00"
+    },
+    "add8a2d4148e26028018282a9f074973a29c622b56b3de9e4b60fa024849f49c": {
+      "title": "Staff and consultancy opportunities",
+      "url": "https://careers.scout.org/o/junior-manager-communications-and-marketing",
+      "source_page": "https://www.scout.org/get-involved/act-now/careers",
+      "context": "Staff and consultancy opportunities",
+      "first_seen": "2026-10-06T18:21:47.924059+00:00"
     }
   },
   "initialized": true
